@@ -25,6 +25,8 @@ In [Lecture_1.pptx](https://github.com/MachineLearningJournalClub/Didattica-Medi
 The second lesson is an overview of various methods of feature extraction and later EEG-signal classification [Lecture_2.pptx](https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/Lecture%202/Lecture_2.pptx).
 Much of the lesson was spent solving the notebook [L_2_Student.ipynb](https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/Lecture%202/L_2_Student.ipynb) using data described in Lecture 1.
 
+[L_2_SOL.ipynb](https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/Lecture%202/L_2_SOL.ipynb) contains some ideas on how to conclude the problem assigned in class.
+
 ### References 
 * [Single-trial analysis and classification of ERP components](https://doc.ml.tu-berlin.de/bbci/publications/BlaLemTreHauMue10.pdf)
 * [Comparative Study of Band-Power Extraction Techniques for Motor Imagery Classification](https://nicolas.brodu.net/common/recherche/publications/bci_powcomp.pdf)
