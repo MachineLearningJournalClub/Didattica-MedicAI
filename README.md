@@ -23,5 +23,5 @@ In [Lecture_1.pptx](https://github.com/MachineLearningJournalClub/Didattica-Medi
 ## 2nd Lecture: Feature Extraction e Classification Methods for EEG-based BCIs
 
 The second lesson is an overview of various methods of feature extraction and later EEG-signal classification [Lecture_2.pptx](https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/Lecture%202/Lecture_2.pptx).
-Much of the lesson was spent solving the notebook [L_2_Student.ipynb](https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/Lecture%202/L_2_student.ipynb) using data described in Lecture 1.
+Much of the lesson was spent solving the notebook [L_2_Student.ipynb](https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/Lecture%202/L_2_Student.ipynb) using data described in Lecture 1.
 
