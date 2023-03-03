@@ -8,10 +8,9 @@ Introduction to Brain Computer Interface
 
 
 -----
-## 1st Lecture: Introduction to EEG-dependent BCI
+## 1st Lecture: Introduction to EEG-dependent BCIs
 
 
 
 -----
-## 2nd Tutorial: Graphs 
-
+## 2nd Lecture: Feature Extraction e Classification Methods for EEG-based BCIs
