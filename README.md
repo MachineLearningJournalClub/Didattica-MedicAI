@@ -1,6 +1,6 @@
 ## Medical Course
-* An introduction to Brain Computer Interface both from a theoretical and a practical point of view of data acquisition and data analysis through Machine Learning techniques
-* Lectures recording is available on our YouTube channel [https://youtu.be/84q-bjevPAQ](https://youtu.be/84q-bjevPAQ)
+An introduction to Brain Computer Interface both from a theoretical and a practical point of view of data acquisition and data analysis through Machine Learning techniques/
+Lectures recording is available on our YouTube channel [https://youtu.be/84q-bjevPAQ](https://youtu.be/84q-bjevPAQ)
 
 ### References 
 * [Introduction to Modern Brain-Computer Interface Design](https://youtube.com/playlist?list=PLbbCsk7MUIGcO_IZMbyymWU2UezVHNaMq)
