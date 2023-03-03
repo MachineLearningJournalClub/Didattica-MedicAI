@@ -1,5 +1,6 @@
 ## Medical Course
 Introduction to Brain Computer Interface
+Lectures recording is available on our YouTube channel [https://youtu.be/84q-bjevPAQ](https://youtu.be/84q-bjevPAQ)
 
 ### References 
 * [Introduction to Modern Brain-Computer Interface Design](https://youtube.com/playlist?list=PLbbCsk7MUIGcO_IZMbyymWU2UezVHNaMq)
