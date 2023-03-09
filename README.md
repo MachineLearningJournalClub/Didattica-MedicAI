@@ -1,10 +1,8 @@
-![Logo](https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/medicAI.png)
-
-<h1 align="center">
-  Medical Course
+MedicAI Course <img src="https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/medicAI.png" width="280px" align="right" />
+===========
+An introduction to Brain Computer Interface both from a theoretical and a practical point of view of data acquisition and data analysis through Machine Learning techniques.
 </h1>
 
-An introduction to Brain Computer Interface both from a theoretical and a practical point of view of data acquisition and data analysis through Machine Learning techniques.
 
 Lectures recordings are available on our YouTube channel [https://youtu.be/84q-bjevPAQ](https://youtu.be/84q-bjevPAQ)
 
