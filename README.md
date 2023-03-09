@@ -1,4 +1,4 @@
-![Logo](/MedicAI.png)
+![Logo](https://github.com/MachineLearningJournalClub/Didattica-MedicAI/blob/main/medicAI.png)
 
 <h1 align="center">
   Medical Course
