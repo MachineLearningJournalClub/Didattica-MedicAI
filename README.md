@@ -1,4 +1,9 @@
-## Medical Course
+![Logo](/Support_Materials/Assets/Logo_MLJC.png)
+
+<h1 align="center">
+  Medical Course
+</h1>
+
 An introduction to Brain Computer Interface both from a theoretical and a practical point of view of data acquisition and data analysis through Machine Learning techniques.
 
 Lectures recordings are available on our YouTube channel [https://youtu.be/84q-bjevPAQ](https://youtu.be/84q-bjevPAQ)
