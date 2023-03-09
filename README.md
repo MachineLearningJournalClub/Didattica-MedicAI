@@ -1,4 +1,4 @@
-![Logo](/Support_Materials/Assets/Logo_MLJC.png)
+![Logo](/MedicAI.png)
 
 <h1 align="center">
   Medical Course
